@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/marketing-agency-react/static/js/main.e683d9d5.chunk.js",
+    "main.js.map": "/marketing-agency-react/static/js/main.e683d9d5.chunk.js.map",
+    "runtime-main.js": "/marketing-agency-react/static/js/runtime-main.1a06fa5e.js",
+    "runtime-main.js.map": "/marketing-agency-react/static/js/runtime-main.1a06fa5e.js.map",
+    "static/js/2.23c15765.chunk.js": "/marketing-agency-react/static/js/2.23c15765.chunk.js",
+    "static/js/2.23c15765.chunk.js.map": "/marketing-agency-react/static/js/2.23c15765.chunk.js.map",
+    "index.html": "/marketing-agency-react/index.html",
+    "precache-manifest.1479309e4062110b9cf51b6ee34542ea.js": "/marketing-agency-react/precache-manifest.1479309e4062110b9cf51b6ee34542ea.js",
+    "service-worker.js": "/marketing-agency-react/service-worker.js",
+    "static/js/2.23c15765.chunk.js.LICENSE.txt": "/marketing-agency-react/static/js/2.23c15765.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/marketing-agency-react/static/media/profile.284cf86c.jpg",
+    "static/media/svg-1.svg": "/marketing-agency-react/static/media/svg-1.1044a68b.svg",
+    "static/media/svg-2.svg": "/marketing-agency-react/static/media/svg-2.80814e39.svg",
+    "static/media/svg-3.svg": "/marketing-agency-react/static/media/svg-3.8786eabc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a06fa5e.js",
+    "static/js/2.23c15765.chunk.js",
+    "static/js/main.e683d9d5.chunk.js"
+  ]
+}
